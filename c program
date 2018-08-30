@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
+
+what is #?
+
+why should we start with word "include "?
+why should () be empty?
+why isnt giving space necessary ?
+why should we use main?
+cant we use any other number than 0 in return?
+why stdio.h should be in <>?
+why should a message be in " and braces ?
+what does printf mean?
+why doesnt this program have scanf?
+why does int only is in short form?
+
+
