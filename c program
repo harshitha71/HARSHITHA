@@ -8,17 +8,27 @@ int main()
 }
 
 what is #?
-the lines
-
-why should we start with word "include "?
+why should we start with word include ?
 why should () be empty?
 why isnt giving space necessary ?
 why should we use main?
 cant we use any other number than 0 in return?
 why stdio.h should be in <>?
-why should a message be in " and braces ?
+why should a message be in " and ( ?
 what does printf mean?
 why doesnt this program have scanf?
 why does int only is in short form?
+what does standard input and output mean?
+why .h ?
+what does .h mean?
+why is there no space between #include?
+can't we use square braces for int main?
+why should we use only word return?
+what does the braces mean to the computer?
+why does codes get coloured in gdb online?
+what is the value of return 0?
+what does ; mean at the end of each statement?
+why shouldn't we return for void main?
+
 
 
